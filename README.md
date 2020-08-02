@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[Imgur](https://imgur.com/y8fv853.gif)' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src='https://imgur.com/y8fv853/y8fv853.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -34,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
