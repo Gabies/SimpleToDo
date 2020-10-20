@@ -24,7 +24,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Video Walkthrough](https://github.com/Gabies/SimpleToDo/blob/master/Simple_TODO.gif width='200')
+
+[Video Walkthrough](https://github.com/Gabies/SimpleToDo/blob/master/Simple_TODO.gif width='200')
+
 
 
 <img src='https://imgur.com/Z5RkjNk.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
